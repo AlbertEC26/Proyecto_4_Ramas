@@ -1,5 +1,5 @@
 
-class ventanaInicio{
+class ventanaPrincipal{
 
               public status void main (String args []) {
            //Crear ventana con Jframe
