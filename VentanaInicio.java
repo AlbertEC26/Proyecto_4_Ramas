@@ -2,7 +2,8 @@
 class ventanaInicio{
 
               public status void main (String args []) {
-           //codigo
+           //Crear ventana con Jframe
+          //Crear ventanas internas con InternalFrames
          }
 
 }
